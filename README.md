@@ -43,7 +43,7 @@ Mettre en place un suivi temps réel
 
 🧰 Stack technique :
 
-Python, pandas, scikit-learn, matplotlib, seaborn.
+Python, pandas, scikit-learn, matplotlib, seaborn, numpy.
 
 👤 Auteur :
 
