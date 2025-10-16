@@ -46,6 +46,10 @@ f1 score : 85%
 
 <img width="637" height="505" alt="image" src="https://github.com/user-attachments/assets/cbf74ccc-c797-4525-89ba-049c910c1f13" />
 
+<img width="565" height="300" alt="image" src="https://github.com/user-attachments/assets/c59a13a3-11b2-4789-88d9-b83670c55502" />
+
+<img width="846" height="748" alt="image" src="https://github.com/user-attachments/assets/c1e806d6-06f9-43bd-9de9-8a2086858e32" />
+
 
 
 💡 Insights business :
